@@ -8,7 +8,7 @@ Two examples connect the writing approach to its campaign's measured response. *
 
 **Post copy — anonymized adaptation**
 
-> **Put your roof to work.**
+> **One rooftop. More possibility.**
 >
 > A recent residential solar installation turns rooftop space into a source of energy for the home. Considering solar? Explore what a system could look like for your property and how it fits your household's priorities.
 
@@ -28,7 +28,7 @@ The adapted text shown here has not been run as a new ad. Its association is wit
 
 **Post copy — anonymized adaptation**
 
-> **Considering solar? Start with a conversation.**
+> **Your next step starts with a conversation.**
 >
 > Speak directly with the team that reviews your roof, plans the system and handles the installation. Find out what a solar project could look like for your home. Request a free assessment.
 

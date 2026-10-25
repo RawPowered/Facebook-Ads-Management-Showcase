@@ -19,13 +19,15 @@ These are observed unit costs within the accessible record. They demonstrate eco
 
 ## Ad copy and clicks
 
+![Polished, anonymized pull quotes paired with the original campaigns' reported clicks and spend](assets/selected-copy.svg)
+
 **The post text below is anonymized and adapted for this portfolio.** Identifying wording and project details have been rewritten. The numbers show the original campaigns' reported outcomes; these adaptations have not been run as new ads.
 
 ### Project story · Campaign 15
 
 **Post copy**
 
-> **Put your roof to work.**
+> **One rooftop. More possibility.**
 >
 > A recent residential solar installation turns rooftop space into a source of energy for the home. Considering solar? Explore what a system could look like for your property and how it fits your household's priorities.
 
@@ -39,7 +41,7 @@ These are observed unit costs within the accessible record. They demonstrate eco
 
 **Post copy**
 
-> **Considering solar? Start with a conversation.**
+> **Your next step starts with a conversation.**
 >
 > Speak directly with the team that reviews your roof, plans the system and handles the installation. Find out what a solar project could look like for your home. Request a free assessment.
 
