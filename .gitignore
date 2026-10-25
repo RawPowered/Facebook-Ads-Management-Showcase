@@ -1,0 +1,5 @@
+private/
+downloads/
+*.raw.csv
+.DS_Store
+Thumbs.db

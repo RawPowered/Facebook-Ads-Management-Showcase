@@ -1,0 +1,16 @@
+{
+  "captured_on": "2026-10-24",
+  "raw_sources_published": false,
+  "sources": [
+    {
+      "reference": "Source A",
+      "sha256": "7e60b1ee9865399ce378153208b1118443ae7d8d4e9450de85538877fd9cb147",
+      "row_count": 21
+    },
+    {
+      "reference": "Source B",
+      "sha256": "298b9c53846cff98869a4421d0d089522c4b8037c860bace9560f57df92fe755",
+      "row_count": 21
+    }
+  ]
+}
