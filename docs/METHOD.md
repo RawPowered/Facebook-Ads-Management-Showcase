@@ -30,6 +30,14 @@ Four examples are featured for the lowest observed cost within each primary resu
 
 ## Anonymization and evidence
 
-Public data contains neutral campaign aliases and only necessary metrics, coverage and campaign end dates. Original campaign names, company/page names, advertiser IDs, personal names, creative copy, URLs, phone numbers, payment information and customer data are omitted. No authentic Meta screenshot containing those details is published. The graphics are **anonymized visualizations reconstructed from the verified export**, not unedited screenshots of Meta.
+Public data contains neutral campaign aliases and only necessary metrics, coverage and campaign end dates. Original campaign names, company/page names, advertiser IDs, personal names, source URLs, phone numbers, payment information and customer data are omitted. Performance graphics are **anonymized visualizations reconstructed from the verified export**. Ad images, screenshot crops and source-post links are excluded. Copy examples are anonymized adaptations; original campaign outcomes remain unchanged.
 
 Raw CSV files and identity-bearing screen captures remain outside this repository. [Source fingerprints](../data/provenance.json) record SHA-256 values for the retained private files and their record counts. A fingerprint identifies a file for later comparison; it does not independently authenticate the platform or let a public reader verify a withheld source. The public dataset supports independent arithmetic checks within the published scope.
+
+## Copy evidence
+
+The [copy examples](COPYWRITING.md) use two verified campaign-text observations. Campaign 15's source copy was observed in its Business Suite preview. Campaign 17's source copy was observed in the matching Business Suite ad row with the same spend and primary result as its exported record. The exported campaign rows remain the numerical source for clicks, impressions, landing-page views and spend.
+
+The public text is an anonymized adaptation of the original writing approach, not a verbatim ad transcript. Brand names, geographic identifiers, exact project specifications, contact details and distinctive identifying phrases have been omitted or rewritten. The adaptations have not been run as new campaigns. Displayed metrics belong to the original campaigns. This separation is stated beside the examples to avoid attributing historical clicks to newly adapted wording.
+
+The original campaign text and private source observations are retained outside the repository. Historic claims in the original advertising are not independently substantiated by the performance export. Clicks reflect the whole campaign; no controlled test isolates the copy's contribution. The two examples do not establish a company count or unique-customer total.

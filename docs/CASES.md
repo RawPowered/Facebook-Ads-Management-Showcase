@@ -28,6 +28,8 @@ A messaging conversation is not a confirmed qualified lead or sale. A link click
 
 Lowest primary link-click cost in the export.
 
+[Read the anonymized post-copy example and its reported clicks](COPYWRITING.md#campaign-15--project-story).
+
 | Metric | Observed value |
 |---|---:|
 | Ad spend | $19.88 |

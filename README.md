@@ -4,7 +4,7 @@ An anonymized portfolio of actual campaign spend and platform-reported responses
 
 ![Facebook advertising performance overview](assets/overview.png)
 
-[Selected results](docs/CASES.md) · [Expense breakdown](docs/EXPENSES.md) · [Measurement and privacy](docs/METHOD.md) · [Download CSV](data/campaigns.csv) · [JSON data](data/campaigns.json)
+[Selected results](docs/CASES.md) · [Ad copy and clicks](docs/COPYWRITING.md) · [Expense breakdown](docs/EXPENSES.md) · [Measurement and privacy](docs/METHOD.md) · [Download CSV](data/campaigns.csv) · [JSON data](data/campaigns.json)
 
 ## Selected results
 
@@ -16,6 +16,40 @@ An anonymized portfolio of actual campaign spend and platform-reported responses
 | Campaign 09 | $345.73 | 49 messaging conversations started | $7.06 | [Inspect](docs/CASES.md#campaign-09) |
 
 These are observed unit costs within the accessible record. They demonstrate economical delivery of measured responses. Revenue and sales conversion were not verified, so no ROAS or turnover claim is made.
+
+## Ad copy and clicks
+
+**The post text below is anonymized and adapted for this portfolio.** Identifying wording and project details have been rewritten. The numbers show the original campaigns' reported outcomes; these adaptations have not been run as new ads.
+
+### Project story · Campaign 15
+
+**Post copy**
+
+> **Put your roof to work.**
+>
+> A recent residential solar installation turns rooftop space into a source of energy for the home. Considering solar? Explore what a system could look like for your property and how it fits your household's priorities.
+
+| Link clicks | Ad spend | Cost per link click | Landing-page views |
+|---:|---:|---:|---:|
+| **66** | **$19.88** | **$0.30** | **32** |
+
+**Writing approach:** a concise project hook, a homeowner benefit and an invitation to explore the service. [Read the copy details and campaign evidence](docs/COPYWRITING.md#campaign-15--project-story).
+
+### Direct service offer · Campaign 17
+
+**Post copy**
+
+> **Considering solar? Start with a conversation.**
+>
+> Speak directly with the team that reviews your roof, plans the system and handles the installation. Find out what a solar project could look like for your home. Request a free assessment.
+
+| Link clicks | Ad spend | Cost per link click | Landing-page views |
+|---:|---:|---:|---:|
+| **90** | **$34.92** | **$0.39** | **54** |
+
+**Writing approach:** a direct offer, an explanation of the service and a specific call to action. [Read the copy details and campaign evidence](docs/COPYWRITING.md#campaign-17--direct-service-offer).
+
+These are separate campaign examples. Reported clicks reflect the full campaign, including creative, audience and delivery; the copy's individual contribution was not isolated.
 
 ## Every verified expense remains visible
 
@@ -45,6 +79,6 @@ Result categories measure different actions and are not combined into a single c
 
 Captured October 24, 2026 from two authenticated Meta Ads Manager exports. Both exports identify their reporting coverage as **September 24, 2023–September 4, 2026**. Campaign schedule end dates in these records fall in December 2025–August 2026. The UI selected a longer range than the downloaded files; this discrepancy is disclosed in the [method](docs/METHOD.md#source-and-reporting-dates).
 
-The accessible record comes from one ad account. Other company performance is excluded where access and evidence were unavailable. Campaign aliases do not imply a company count. Original names, creative, identifiers, payment details and raw identity-bearing screenshots are withheld. Public graphics are reconstructed from the verified data. [Read the source, reconciliation and privacy notes](docs/METHOD.md).
+The accessible record comes from one ad account. Other company performance is excluded where access and evidence were unavailable. Campaign aliases do not imply a company count. Original names, identifiers, payment details and unredacted identity-bearing screenshots are withheld. Performance graphics are reconstructed from the verified data. Ad images and source-post links are excluded. Copy examples are anonymized adaptations with the original campaign metrics shown separately. [Read the source, reconciliation and privacy notes](docs/METHOD.md).
 
 This repository is an independent portfolio presentation. It has no affiliation with or endorsement from Meta. All amounts are USD.
